@@ -38,7 +38,7 @@
 12. [Recurrent Neural Networks (RNN)](#12-recurrent-neural-networks-rnn)
 13. [LSTM & GRU](#13-long-short-term-memory-lstm--gru)
 14. [Advanced Deep Learning](#14-advanced-deep-learning)
-15. [Transformers — Complete Deep Dive](#15-Transformers—Complete-Deep-Dive)
+15. [Transformers — Complete Deep Dive](#15-transformers—complete-deep-dive)
 16. [Natural Language Processing (NLP)](#16-Natural-Language-Processing-(NLP))
 17. [LangChain & LLM Application Engineering](#17-LangChain-&-LLM-Application-Engineering)
 18. [Handling Imbalanced Data](#18Handling-Imbalanced-Data)

@@ -1,5 +1,5 @@
 # 🤖 Machine Learning, Deep Learning & LLM Engineering
-### The Most Complete Beginner-to-Production Reference — Zero to Expert
+### The Complete Beginner-to-Production Reference — Zero to Expert
 
 > **Every algorithm. Every derivation. Every formula. Every intuition.**
 > Written so that ANYONE — even with zero prior knowledge — can understand.

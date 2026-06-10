@@ -38,11 +38,25 @@
 12. [Recurrent Neural Networks (RNN)](#12-recurrent-neural-networks-rnn)
 13. [LSTM & GRU](#13-long-short-term-memory-lstm--gru)
 14. [Advanced Deep Learning](#14-advanced-deep-learning)
-15. [Transformers — Complete Deep Dive](#15-transformers—complete-deep-dive)
-16. [Natural Language Processing (NLP)](#16-Natural-Language-Processing-(NLP))
-17. [LangChain & LLM Application Engineering](#17-LangChain-&-LLM-Application-Engineering)
-18. [Handling Imbalanced Data](#18Handling-Imbalanced-Data)
+15. [Transformers — Complete Deep Dive](#15-transformers--complete-deep-dive)
 
+16. [Natural Language Processing (NLP)](#16-natural-language-processing-nlp)
+
+17. [LangChain & LLM Application Engineering](#17-langchain--llm-application-engineering)
+
+18. [Handling Imbalanced Data](#18-handling-imbalanced-data)
+
+19. [Model Evaluation & Selection](#19-model-evaluation--selection)
+
+20. [Regularisation & Optimisation](#20-regularisation--optimisation)
+
+21. [Probabilistic Machine Learning](#21-probabilistic-machine-learning)
+
+22. [Quick Reference — Architecture Decision Guide](#quick-reference--architecture-decision-guide)
+
+23. [References](#references)
+   - [Landmark Papers Referenced in This Guide](#landmark-papers-referenced-in-this-guide)
+   - [Resources for Going Deeper](#resources-for-going-deeper)
 
 
 ---
@@ -11110,5 +11124,3 @@ COMMON MISTAKES AND HOW TO AVOID THEM:
 ---
 
 *Theory → Intuition → Math → Visualisation → Code → Production*
-*Sections 15-21 — The Complete Reference for Transformers, NLP, and Production LLM Engineering*
-*by @ravidaliparthy — Extended with NLP and Beginner-Friendly Explanations*

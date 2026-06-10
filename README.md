@@ -38,13 +38,12 @@
 12. [Recurrent Neural Networks (RNN)](#12-recurrent-neural-networks-rnn)
 13. [LSTM & GRU](#13-long-short-term-memory-lstm--gru)
 14. [Advanced Deep Learning](#14-advanced-deep-learning)
-15. [Transformers — Complete Deep Dive](#15-transformers--complete-deep-dive)
-16. [LangChain & LLM Application Engineering](#16-langchain--llm-application-engineering)
-17. [Handling Imbalanced Data](#17-handling-imbalanced-data)
-18. [Model Evaluation & Selection](#18-model-evaluation--selection)
-19. [Regularisation & Optimisation](#19-regularisation--optimisation)
-20. [Probabilistic Machine Learning](#20-probabilistic-machine-learning)
-21. [Repository Structure](#21-repository-structure)
+15. [Transformers — Complete Deep Dive](#15-Transformers—Complete-Deep-Dive)
+16. [Natural Language Processing (NLP)](#16-Natural-Language-Processing-(NLP))
+17. [LangChain & LLM Application Engineering](#17-LangChain-&-LLM-Application-Engineering)
+18. [Handling Imbalanced Data](#18Handling-Imbalanced-Data)
+
+
 
 ---
 

@@ -6646,26 +6646,6 @@ Label Smoothing:
   The second term maximises entropy → models are less "peaked."
   Result: better calibration, slightly better accuracy, especially for knowledge distillation.
 ```
-# 🤖 Machine Learning, Deep Learning, NLP & LLM Engineering
-### The Most Complete Beginner-to-Production Reference — Sections 15 Onwards
-
-> **Every algorithm. Every derivation. Every formula. Every intuition.**
-> Written so that ANYONE — even with zero prior knowledge — can understand.
-> Theory → Intuition → Math → Visualisation → Code → Production.
-
-> 💡 **How to use this guide:** If you are new, read every plain-English block first. Follow the ASCII diagrams. Don't skip analogies — they are the foundation. The math will make sense once you have the intuition. If you have background, use the derivations, proofs, and production notes.
-
----
-
-## 📑 Table of Contents (This Document)
-
-15. [Transformers — Complete Deep Dive](#15-transformers--complete-deep-dive)
-16. [Natural Language Processing (NLP)](#16-natural-language-processing-nlp)
-17. [LangChain & LLM Application Engineering](#17-langchain--llm-application-engineering)
-18. [Handling Imbalanced Data](#18-handling-imbalanced-data)
-19. [Model Evaluation & Selection](#19-model-evaluation--selection)
-20. [Regularisation & Optimisation](#20-regularisation--optimisation)
-21. [Probabilistic Machine Learning](#21-probabilistic-machine-learning)
 
 ---
 
